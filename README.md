@@ -1,4 +1,5 @@
-![logo]("https://github.com/DavidFM43/DavidFM43/blob/main/profile_img.jpeg")
+![logo](/profile_img.jpeg)
+
 <h1 align="center">Hi 👋, I'm David Felipe Mora</h1>
 <h3 align="center">Computer Science student at UNAL passionate about Machine Learning and Data Science</h3>
 
