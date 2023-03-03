@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm David Felipe Mora</h1>
 <h4>Computer Science student at UNAL passionate about Machine Learning and Data Science</h3>
 
-- 🔭 I’m currently learning on **Language Models, Deep Learning and Machine learning**.
+- 🔭 I’m currently learning on **Language Models and Semantic segmentation using Deep Learning**.
 
-- 👯 I’m looking to collaborate on **Kaggle competitions**.
+- 👯 I’m looking to collaborate on **Kaggle competitions and open source projects**.
 
 - 📫 How to reach me **dmorara@unal.edu.co**
 
