@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm David Felipe Mora</h1>
-<h4>Computer Science student at UNAL passionate about Machine Learning and Data Science</h3>
+<h4>Computer Science student at the National University of Colombia passionate about Deep Learning and Data Science</h3>
 
 - 🔭 I’m currently learning on **Language Models and Semantic segmentation using Deep Learning**.
 
