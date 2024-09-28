@@ -1,5 +1,5 @@
 ## Hi 👋, I'm David Mora</h2>
-A Computer Science student @ National University of Colombia, currently doing a research intership @ Purdue University. I'm passionate about fundamental Deep Learning research, in particular Large Language Models (LLMs) safety and efficiency.
+CS student at the National University of Colombia, currently doing a Research Intership at Purdue University. I'm passionate about fundamental Deep Learning research, in particular Large Language Models (LLMs) safety and efficiency.
 
 - 🔭 I’m currently learning about:
     - **nanogpt** and **llm.c**, I've been following Andrej Karpathy's Zero to Hero youtube series.
